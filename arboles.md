@@ -208,4 +208,4 @@ Para este tipo de analisis, primeramente se deberia de contar con una base de da
 
 ----
 
-(Regresar al Inicio)[index.md]
+[Regresar al Inicio](index.md)
