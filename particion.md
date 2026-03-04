@@ -154,6 +154,6 @@ Ya que tenemos nuestros datos preparados, crearemos un modelo de Linear Discrimi
 
 ----
 
-[Siguiente pagina >>>][]
+[Siguiente pagina >>>](LDA.md)
 
 
