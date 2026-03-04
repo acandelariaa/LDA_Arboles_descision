@@ -67,7 +67,7 @@ weighted avg       0.97      0.98      0.97      1370
 
 ```
 
-###Ver funciones discriminantes y coeficientes
+### Ver funciones discriminantes y coeficientes
 Con el fin de poder comprender un poco mas como se comporta nuestro modelo, veamos la funcion disciminante y los coeficientes que tenemos
 
 
