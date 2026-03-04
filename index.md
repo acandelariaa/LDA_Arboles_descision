@@ -15,9 +15,9 @@ Este proyecto utiliza modelos de LDA y arboles de decisión para predecir la **t
 
 Recursos
 
-| Dataset |[NASA_exoplanets](PSCompPars_2026.02.16_14.28.02.csv) |
+| Dataset |[NASA_exoplanets (ya imputada)](dataset_final_exoplanetas.csv) |
 |---|---|
-| **Notebook** | [.ipynb](PP1_IA.ipynb) |
+| **Notebook** | [.ipynb](A2_2_LDA_Arboles.ipynb) |
 
 ---
 
@@ -47,13 +47,12 @@ Recursos
 ## Procedimiento
 
 
-[Contexto de los datos](contexto.md)
+[Particion de datos](.md)
 
 [Exploracion de datos](explorar_datos.md)
 
 [Modelos/conclusion](modelos.md)
 
-[What if??](whatif.md)
 
 ## Referencias
 
