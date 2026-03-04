@@ -205,3 +205,7 @@ Para este problema específico, el árbol de decisión resulta más adecuado al 
 El modelo LDA, aunque presenta alta exactitud global, demuestra limitaciones importantes en la detección de la clase minoritaria.
 
 Para este tipo de analisis, primeramente se deberia de contar con una base de datos la cual no tenga un desbalance de clases tan notorio como lo fue en este caso, de modo que pueda permitirle al modelo tener mas observaciones de la categoria que si nos interesa, en este caso era "Habitable si/no".
+
+----
+
+(Regresar al Inicio)[index.md]
