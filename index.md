@@ -47,11 +47,11 @@ Recursos
 ## Procedimiento
 
 
-[Particion de datos](.md)
+[Particion de datos](particion.md)
 
-[Exploracion de datos](explorar_datos.md)
+[LDA](LDA.md)
 
-[Modelos/conclusion](modelos.md)
+[Arboles](arboles.md)
 
 
 ## Referencias
