@@ -128,3 +128,19 @@ plt.show()
 
 
 >Output
+
+
+![discr](Proyeccion_discr.png)
+
+
+La proyección de los datos sobre la función discriminante (LD1) muestra que ambas clases presentan una alta superposición. La distribución correspondiente a los planetas no habitables domina casi por completo el espacio, mientras que los pocos planetas clasificados como habitables quedan prácticamente contenidos dentro de esa misma distribución.
+
+En términos geométricos, esto indica que la frontera lineal construida por LDA no logra separar claramente ambas clases, lo cual explica directamente el resultado obtenido en las métricas: el modelo no identifica correctamente ningún planeta habitable (recall = 0).
+
+En cuanto a los coeficientes de la función discriminante, se observa que las variables con mayor influencia son el radio estelar (st_rad) y la insolación planetaria (pl_insol), que contribuyen positivamente a la clasificación como habitable, mientras que la temperatura de equilibrio (pl_eqt) y la temperatura efectiva estelar (st_teff) presentan contribuciones negativas.
+
+Dado que la variable objetivo fue construida a partir de un rango específico de pl_eqt, resulta lógico que el modelo intente capturar indirectamente esa información a través de variables físicamente relacionadas, como la insolación y las propiedades de la estrella. Sin embargo, debido al fuerte desbalance entre clases y a la limitada separación lineal existente en los datos, el modelo no consigue discriminar adecuadamente los casos positivos.
+
+-----
+
+[Siguiente pagina>>>>>]()
